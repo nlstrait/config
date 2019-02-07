@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/Users/Nolan/.vim.backup'
+let g:netrw_dirhist_2='/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/CCDLUtil/EEGInterface/__pycache__'
+let g:netrw_dirhist_3='/Users/Nolan/CCDLUtil/Experiment/SSVEP'
+let g:netrw_dirhist_4='/Users/Nolan/CSNE/DSI-7/Software/DSI-Streamer-v.1.08.36/Montages/DSI-7'
+let g:netrw_dirhist_5='/Users/Nolan/.oh-my-zsh'
+let g:netrw_dirhist_6='/Users/Nolan/CCDLUtil/Experiment'
+let g:netrw_dirhist_7='/Users/Nolan/Coursework/CSE 473/project_1/search/__MACOSX'
